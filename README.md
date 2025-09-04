@@ -1,7 +1,7 @@
-# E-commerce_Sales_Dashboard
+# E-commerce_Dashboard
 Power BI dashboard delivers clear sales insights with interactive visuals, helping businesses track performance, identify growth opportunities, and make data-driven decisions to boost revenue.
 
-# E‑Commerce Sales Analytics – Power BI Project
+# E‑Commerce Data Analytics – Power BI Project
 A compact project to analyze an e‑commerce store’s sales and present a clean Power BI dashboard with key insights.  
 
 ## Dataset
@@ -42,6 +42,12 @@ Sharing insight
 7. Validate with spot-checks and export PBIX/PNG for the repo.
 
 ## Learnings
+
+**Tech Stack:**
+
+- Power BI → Interactive dashboards & storytelling
+- Data Cleaning & Transformation → Power Query (ETL process)
+- Data Modeling → DAX measures, calculated columns, relationships
 
 **Skills used:**
 - Data collection & ingestion: CSVs → Power BI (Power Query) / Python

@@ -4,6 +4,14 @@ Power BI dashboard delivers clear sales insights with interactive visuals, helpi
 # E‑Commerce Data Analytics – Power BI Project
 A compact project to analyze an e‑commerce store’s sales and present a clean Power BI dashboard with key insights.  
 
+# Objectives
+
+- Sales Overview – Track overall sales performance, KPIs, and growth trends.
+- Product Analysis – Identify top-selling categories, products, and sizes.
+- Customer Insights – Segment customers by purchase behavior and region.
+- Geographical Analysis – Visualize sales distribution across states and cities.
+- Interactive Dashboards – Provide decision-makers with dynamic, drill-down reports.
+
 ## Dataset
 Two sources were used:
 - `Orders.csv` – order-level attributes (dates, customers, regions, etc.).
